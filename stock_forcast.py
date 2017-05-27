@@ -1,3 +1,4 @@
+#based on tutorial from sendex https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ and concepts taught in Machine Learning for Trading on Udacity 
 import quandl, math
 import numpy as np
 import pandas as pd
