@@ -33,11 +33,14 @@ df.dropna(inplace=True)
 y = np.array(df['label'])
 
 X_train, X_test, y_train, y_test = cross_validation.train_test_split(X, y, test_size=0.2)
-#COMMENTED OUT:
+#COMMENTED OUT To Incorprate Pickiling 
 ##clf = svm.SVR(kernel='linear')
 ##clf.fit(X_train, y_train)
 ##confidence = clf.score(X_test, y_test)
 ##print(confidence)
+
+# to chnage model to SVR 
+#clf=svm.SVR(kernel='poly')
 pickle_in = open('linearregression.pickle','rb')
 clf = pickle.load(pickle_in)
 
