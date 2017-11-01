@@ -8,4 +8,5 @@ CSV Gile used: https://github.com/naashonomics/MachineLearning/blob/PastHires.cs
 Stats Refresher 
 
 Median/Mode/Mean : https://github.com/naashonomics/MachineLearning/blob/master/MeanMedianMode.ipynb 
+Variance/Std Deviation/sample variance:
  
