@@ -12,5 +12,5 @@ Variance/Std Deviation/sample variance: https://github.com/naashonomics/MachineL
 Probaility Desity function (continious data): + Probaility Mass function (Discrete data) : https://github.com/naashonomics/MachineLearning/blob/master/Distributions.ipynb 
 
 Percentiles: https://github.com/naashonomics/MachineLearning/blob/master/Percentiles.ipynb 
-Momemnts ( Mean, Variance , Skew, kurtosis):
+Momemnts ( Mean, Variance , Skew, kurtosis):https://github.com/naashonomics/MachineLearning/blob/master/Moments.ipynb
  
