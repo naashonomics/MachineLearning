@@ -25,3 +25,6 @@ There are three main types of outliers.
 3> collective outliers. Collection of observation anomalous  but appear close to one another bcoz they all have similar anamalous value 
 
 https://github.com/naashonomics/MachineLearning/blob/master/outlieranalizer.ipynb 
+
+Multivariabte outliers
+https://github.com/naashonomics/MachineLearning/blob/master/multivariate.ipynb
