@@ -15,3 +15,5 @@ Percentiles: https://github.com/naashonomics/MachineLearning/blob/master/Percent
 
 Momemnts ( Mean, Variance , Skew, kurtosis):https://github.com/naashonomics/MachineLearning/blob/master/Moments.ipynb
  
+Factor Analysis : https://github.com/naashonomics/MachineLearning/blob/master/factoranalysis.ipynb 
+Prinical Component Decompsoition : https://github.com/naashonomics/MachineLearning/blob/master/prinicpalcomponentanalysis.ipynb 
