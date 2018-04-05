@@ -28,3 +28,6 @@ https://github.com/naashonomics/MachineLearning/blob/master/outlieranalizer.ipyn
 
 Multivariabte outliers
 https://github.com/naashonomics/MachineLearning/blob/master/multivariate.ipynb
+
+DBscan for Outlier Detection :DBSCAN is an unsupervised machine-learning method that clusters core samples from dense areas of a dataset and denotes non-core samples from sparse areas of that dataset
+https://github.com/naashonomics/MachineLearning/blob/master/dbscan.ipynb
